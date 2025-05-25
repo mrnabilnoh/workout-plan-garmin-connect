@@ -56,4 +56,33 @@ Garmin Connect only allows logging exercises from its official database. If your
 
 ---
 
+### Generating Your Own Plan with AI
+
+You can use an AI chat assistant to create a personalized workout plan similar to the [Example Weekly Workout Plan](weekly_workout_plan.md). Here's an example of how you might do it:
+
+1.  **Provide Context to the AI:**
+    *   Share the content of the `garmin_connect_exercise_list.md` file with the AI. This gives it the official exercise names, muscle groups, and equipment emojis.
+    *   Tell the AI your available equipment (e.g., "I only have a Cable Machine and a Power Tower").
+    *   Specify your fitness level (e.g., "I am a beginner").
+    *   Describe your desired weekly structure (e.g., "I want a 3-day split focusing on Upper Body, Lower Body, and Core, with 2 rest days").
+
+2.  **Give a Prompt to the AI:**
+    You could use a prompt like this:
+    ```
+    "Please generate a beginner-friendly weekly workout plan.
+    - Equipment: Cable Machine and Power Tower only.
+    - Use exercise names, primary muscle groups (with emojis), and equipment emojis exactly as listed in the `garmin_connect_exercise_list.md` I provided.
+    - The plan should have dedicated days for Upper Body, Lower Body, and Abs/Core.
+    - Include 2-3 sets per exercise and 8-15 reps, adjusting for exercise type.
+    - Format the output as a markdown table, similar to the example weekly workout plan.
+    - Include a weekly schedule overview table.
+    - Ensure all exercises are suitable for a beginner and the specified equipment."
+    ```
+
+3.  **Review and Refine:** The AI will generate a plan. Review it, and if needed, ask the AI for adjustments (e.g., "Can you replace X exercise with another one for the same muscle group?" or "Can you add more exercises for shoulders?").
+
+This approach allows you to tailor a workout plan to your specific needs and preferences using AI assistance.
+
+---
+
 Feel free to use, share, or adapt this list for your own workout planning, app development, or AI-powered fitness tools.
