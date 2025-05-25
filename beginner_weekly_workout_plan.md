@@ -9,9 +9,10 @@
 
 <!--
 Reasoning:
-- Compound movements (Push Up, Chest Press, Pull Up, Single Arm Cable Row) target all major upper body muscle groups for balanced strength and muscle growth.
-- Push/pull balance ensures both pressing and pulling muscles are trained.
-- Triceps Pressdown and Lateral Raise provide accessory work for arms and shoulders.
+- Compound movements (Push Up, Chest Press, Pull Up, Single Arm Cable Row) are placed first to maximize strength and energy for the heaviest, most demanding lifts.
+- Isolation/accessory exercises (Triceps Pressdown, Dumbbell Lateral Raise) follow, allowing you to focus on specific muscles after the main lifts.
+- This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
+- Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises utilize both cable machine and Power Tower for equipment variety and progression.
 - All choices are beginner-friendly, progressive, and mapped to Garmin Connect for easy tracking.
 References: ACE Fitness, Mayo Clinic, Nerd Fitness.
@@ -25,16 +26,22 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Triceps Pressdown           | Triceps Pressdown          | Cable             | 3 x 10-12   | Triceps                 |                        |
 | Dumbbell Lateral Raise      | Dumbbell Lateral Raise     | Dumbbells (optional) | 2 x 10-12   | Shoulders               | Traps                  |
 
+**Cooldown:**
+- 5–10 minutes of light cardio (walking, cycling, etc.)
+- Static stretching for all major upper body muscles
+- Deep breathing/relaxation
+
 ---
 
 ## Tuesday – Lower Body (Cable + Bodyweight)
 
 <!--
 Reasoning:
-- Compound and isolation movements (Leg Press, Leg Curl, Leg Extension) target all major lower body muscle groups for balanced strength and muscle growth.
-- Calf Raise ensures calves are not neglected, supporting ankle and knee health.
-- Cable Kickback adds glute and hamstring focus, improving posterior chain strength.
-- Exercises use both cable machine and bodyweight for variety and progression.
+- Compound exercises (Leg Press, Bodyweight Squat) are placed first to maximize strength and energy for the largest muscle groups.
+- Isolation/accessory exercises (Leg Curl, Leg Extension, Calf Raise, Cable Kickback) follow, allowing you to focus on specific muscles after the main lifts.
+- This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
+- Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
+- Exercises use both cable machine and bodyweight for equipment variety and progression.
 - All choices are beginner-friendly, progressive, and mapped to Garmin Connect for easy tracking.
 References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 -->
@@ -44,7 +51,12 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Leg Curl                     | Leg Curl                   | Cable, Bench      | 3 x 12-15   | Hamstrings              | Glutes                 |
 | Leg Extension                | Leg Extension              | Cable, Bench      | 3 x 12-15   | Quads                   |                        |
 | Calf Raise                   | Calf Raise                 | Bodyweight        | 3 x 15-20   | Calves                  |                        |
-| Kick Back                    | Cable Kickback             | Cable             | 3 x 12-15   | Glutes, Hamstrings      |                        |
+| Kick Back                    | Cable Kickback             | Cable             | 3 x 12-15 (each leg)   | Glutes, Hamstrings      |                        |
+
+**Cooldown:**
+- 5–10 minutes of light cardio (walking, cycling, etc.)
+- Static stretching for all major lower body muscles
+- Deep breathing/relaxation
 
 ---
 
@@ -52,9 +64,9 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 
 <!--
 Reasoning:
-- Core and abs exercises (Sit Up, Hanging Leg Raise, Plank, Cable Crunch, Russian Twist) target all major core muscle groups for stability, posture, and injury prevention.
-- Hanging Leg Raise and Cable Crunch provide both vertical and horizontal core challenges.
-- Russian Twist adds rotational core work, important for functional strength.
+- Core and abs exercises (Sit Up, Hanging Leg Raise, Plank, Cable Crunch, Russian Twist) are ordered from most demanding to least, starting with dynamic compound core work and ending with static holds and rotation.
+- This order ensures you have the most energy for the hardest core moves and finish with stability and flexibility.
+- Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises use Power Tower, cable, and bodyweight for variety and progression.
 - All choices are beginner-friendly, progressive, and mapped to Garmin Connect for easy tracking.
 References: ACE Fitness, Mayo Clinic, Nerd Fitness.
@@ -65,7 +77,12 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Hanging Leg Raise            | Hanging Leg Raise          | Power Tower       | 3 x 10-15   | Abs, Hip Flexors        |                        |
 | Plank                        | Plank                      | Bodyweight        | 3 x 30s     | Abs, Core               | Shoulders, Glutes      |
 | Cable Crunch                 | Cable Crunch               | Cable             | 3 x 15-20   | Abs                     |                        |
-| Russian Twist                | Russian Twist (Bodyweight) | Bodyweight        | 3 x 15-20   | Obliques, Abs           | Hip Flexors            |
+| Russian Twist                | Russian Twist (Bodyweight) | Bodyweight        | 3 x 15-20 (each side)   | Obliques, Abs           | Hip Flexors            |
+
+**Cooldown:**
+- 5–10 minutes of light cardio (walking, cycling, etc.)
+- Static stretching for all major core muscles
+- Deep breathing/relaxation
 
 ---
 
@@ -77,11 +94,11 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 
 <!--
 Reasoning:
-- Compound and accessory movements (Push Up, Chest Press, Chin Up, Single Arm Cable Row, Body Weight Dip, Lateral Raise) ensure all upper body muscle groups are trained with both push and pull focus.
-- Chin Up and Body Weight Dip add variety to pulling and pushing, using the Power Tower for vertical movement patterns.
-- Single Arm Cable Row continues to address back and arm strength, correcting imbalances.
-- Lateral Raise is included for shoulder development.
-- Exercises use both cable machine and Power Tower for equipment variety and progression.
+- Compound movements (Push Up, Chest Press, Chin Up, Single Arm Cable Row) are placed first to maximize strength and energy for the heaviest, most demanding lifts.
+- Accessory exercises (Body Weight Dip, Dumbbell Lateral Raise) follow, allowing you to focus on specific muscles after the main lifts.
+- This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
+- Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
+- Exercises utilize both cable machine and Power Tower for equipment variety and progression.
 - All choices are beginner-friendly, progressive, and mapped to Garmin Connect for easy tracking.
 References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 -->
@@ -94,14 +111,20 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Body Weight Dip             | Body Weight Dip            | Power Tower       | 3 x 8-12    | Triceps, Chest          | Shoulders              |
 | Dumbbell Lateral Raise      | Dumbbell Lateral Raise     | Dumbbells (optional) | 2 x 10-12   | Shoulders               | Traps                  |
 
+**Cooldown:**
+- 5–10 minutes of light cardio (walking, cycling, etc.)
+- Static stretching for all major upper body muscles
+- Deep breathing/relaxation
+
 ---
 
 ## Saturday – Lower Body/Core (Cable + Power Tower)
 
 <!--
 Reasoning:
-- Compound and accessory movements (Bodyweight Squat, Leg Press, Leg Curl, Hanging Knee Raise, Plank) target all major lower body and core muscle groups for strength, stability, and balance.
-- Hanging Knee Raise and Plank ensure core is trained with both dynamic and static work.
+- Compound and accessory movements (Bodyweight Squat, Leg Press, Leg Curl, Hanging Knee Raise, Plank) are ordered to start with the most demanding lower body lifts and finish with core and stability work.
+- This order (compound → isolation → core) is supported by strength training best practices for safety, effectiveness, and progression.
+- Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises use both cable machine, Power Tower, and bodyweight for variety and progression.
 - All choices are beginner-friendly, progressive, and mapped to Garmin Connect for easy tracking.
 References: ACE Fitness, Mayo Clinic, Nerd Fitness.
@@ -113,6 +136,11 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Leg Curl                     | Leg Curl                   | Cable, Bench      | 3 x 12-15   | Hamstrings              | Glutes                 |
 | Hanging Knee Raise           | Hanging Knee Raise          | Power Tower       | 3 x 10-15   | Abs, Hip Flexors        |                        |
 | Plank                        | Plank                      | Bodyweight        | 3 x 30s     | Abs, Core               | Shoulders, Glutes      |
+
+**Cooldown:**
+- 5–10 minutes of light cardio (walking, cycling, etc.)
+- Static stretching for all major lower body and core muscles
+- Deep breathing/relaxation
 
 ---
 
