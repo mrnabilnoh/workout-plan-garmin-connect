@@ -102,3 +102,10 @@
 - Log these workouts in Garmin Connect using the exact exercise names above.
 
 ---
+
+### **Further Reading**
+- [Strength training: Get stronger, leaner, healthier – Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670)
+- [7 Benefits of Cable Machine Training – ACE Fitness](https://www.acefitness.org/resources/everyone/blog/6763/7-benefits-of-cable-machine-training/)
+- [Beginner Bodyweight Workout – Nerd Fitness](https://www.nerdfitness.com/blog/beginner-body-weight-workout-burn-fat-build-muscle/)
+
+---
