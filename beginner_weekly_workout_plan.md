@@ -21,7 +21,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Push Up                     | Push Ups                   | Bodyweight        | 3 x 10-15   | Chest, Triceps, Shoulders| Core                   |
 | Chest Press                 | Cable Crossover (or Chest Press if available) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
 | Pull Up (Assisted if needed)| Pull Up                    | Power Tower       | 3 x 8-12    | Back, Biceps            | Shoulders              |
-| Single Arm Cable Row        | Single Arm Cable Row       | Cable             | 3 x 10-12   | Back                    | Biceps, Rear Delts     |
+| Single Arm Cable Row        | Single Arm Cable Row       | Cable             | 3 x 10-12 (each arm)   | Back                    | Biceps, Rear Delts     |
 | Triceps Pressdown           | Triceps Pressdown          | Cable             | 3 x 10-12   | Triceps                 |                        |
 | Dumbbell Lateral Raise      | Dumbbell Lateral Raise     | Dumbbells (optional) | 2 x 10-12   | Shoulders               | Traps                  |
 
@@ -90,7 +90,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Push Up                     | Push Ups                   | Bodyweight        | 3 x 10-15   | Chest, Triceps, Shoulders| Core                   |
 | Chest Press                 | Cable Crossover (or Chest Press if available) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
 | Chin Up (Assisted if needed)| Chin Up                    | Power Tower       | 3 x 8-12    | Biceps, Lats            | Shoulders              |
-| Single Arm Cable Row        | Single Arm Cable Row       | Cable             | 3 x 10-12   | Back                    | Biceps, Rear Delts     |
+| Single Arm Cable Row        | Single Arm Cable Row       | Cable             | 3 x 10-12 (each arm)   | Back                    | Biceps, Rear Delts     |
 | Body Weight Dip             | Body Weight Dip            | Power Tower       | 3 x 8-12    | Triceps, Chest          | Shoulders              |
 | Dumbbell Lateral Raise      | Dumbbell Lateral Raise     | Dumbbells (optional) | 2 x 10-12   | Shoulders               | Traps                  |
 
