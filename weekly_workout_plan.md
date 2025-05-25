@@ -20,12 +20,12 @@
 
 | Exercise                  | Equipment      | Garmin Connect Name   | Primary Muscles              | Secondary Muscles             | Sets | Reps   |
 |---------------------------|---------------|----------------------|------------------------------|-------------------------------|------|--------|
-| Pull-up or Chin-up        | Power Tower 🤸 | Pull-up / Chin Up    | 🦾 LATS, TRAPS / 💪 BICEPS, LATS | 🏋️ SHOULDERS, 💪 FOREARMS     | 2–3  | 5–8    |
+| Pull-up or Chin-up        | Power Tower 🤸 | Pull Up              | 🦾 LATS, TRAPS                | 🏋️ SHOULDERS, 💪 FOREARMS     | 2–3  | 5–8    |
 | Seated Cable Row          | Cable 🔗      | Seated Cable Row     | 🦾 LATS, TRAPS                 | 💪 BICEPS, 🏋️ SHOULDERS (Rear) | 2–3  | 8–12   |
-| Cable Chest Press         | Cable 🔗      | Cable Chest Press    | 🏋️ CHEST                     | 🏋️ SHOULDERS, 💪 TRICEPS       | 2–3  | 8–12   |
+| Cable Chest Press         | Cable 🔗      | Cable Crossover      | 🏋️ CHEST                     | 🏋️ SHOULDERS, 💪 TRICEPS       | 2–3  | 8–12   |
 | Shoulder Press            | Cable 🔗      | Shoulder Press       | 🏋️ SHOULDERS                  | 💪 TRICEPS, 🦾 TRAPS          | 2–3  | 8–12   |
-| Cable Lateral Raise       | Cable 🔗      | Cable Front Raise    | 🏋️ SHOULDERS                  | 🦾 TRAPS                      | 2    | 10–12  |
-| Triceps Press-down        | Cable 🔗      | Triceps Press-down   | 💪 TRICEPS                   | 💪 FOREARMS                   | 2    | 10–12  |
+| Cable Lateral Raise       | Cable 🔗      | One Arm Cable Lateral Raise  | 🏋️ SHOULDERS                  | 🦾 TRAPS                      | 2    | 10–12  |
+| Triceps Press-down        | Cable 🔗      | Triceps Pressdown    | 💪 TRICEPS                   | 💪 FOREARMS                   | 2    | 10–12  |
 | Cable Biceps Curl         | Cable 🔗      | Cable Biceps Curl    | 💪 BICEPS                    | 💪 FOREARMS                   | 2    | 10–12  |
 
 ---
@@ -36,9 +36,9 @@
 |---------------------|-------------|----------------------|-----------------|--------------------------|------|--------|
 | Leg Press           | Cable 🔗    | Leg Press            | 🦵 QUADS        | 🍑 GLUTES, 🦵 HAMSTRINGS  | 2–3  | 10–15  |
 | Leg Curl            | Cable 🔗    | Leg Curl             | 🦵 HAMSTRINGS   | 🦶 CALVES, 🍑 GLUTES      | 2–3  | 10–15  |
-| Leg Extensions      | Cable 🔗    | Leg Extensions       | 🦵 QUADS        | -                        | 2–3  | 10–15  |
+| Leg Extensions      | Cable 🔗    | Leg Extension        | 🦵 QUADS        | -                        | 2–3  | 10–15  |
 | Hip Adduction       | Cable 🔗    | Hip Adduction        | 🦵 ADDUCTORS    | -                        | 2    | 12–15  |
-| Cable Kick-back     | Cable 🔗    | Cable Kick-back      | 🍑 GLUTES       | 🦵 HAMSTRINGS            | 2    | 10–12  |
+| Cable Kick-back     | Cable 🔗    | Cable Kickback       | 🍑 GLUTES       | 🦵 HAMSTRINGS            | 2    | 10–12  |
 | Calf Raise          | Cable/Body 🤸 | Calf Raise           | 🦶 CALVES       | -                        | 2    | 15–20  |
 
 ---
@@ -53,12 +53,12 @@
 
 | Exercise                  | Equipment      | Garmin Connect Name   | Primary Muscles | Secondary Muscles             | Sets | Reps   |
 |---------------------------|---------------|----------------------|-----------------|-------------------------------|------|--------|
-| Wide-grip Lat Pull-down   | Cable 🔗      | Wide-grip Lat Pull-down | 🦾 LATS         | 💪 BICEPS, 🏋️ SHOULDERS (Rear) | 2–3  | 8–12   |
+| Wide-grip Lat Pull-down   | Cable 🔗      | Wide Grip Lat Pulldown | 🦾 LATS         | 💪 BICEPS, 🏋️ SHOULDERS (Rear) | 2–3  | 8–12   |
 | Upright Row               | Cable 🔗      | Upright Row          | 🏋️ SHOULDERS, 🦾 TRAPS | 💪 BICEPS                     | 2    | 10–12  |
 | Pec Fly                   | Cable 🔗      | Cable Crossover      | 🏋️ CHEST        | 🏋️ SHOULDERS (Front)         | 2    | 10–12  |
-| Single-arm Cable Row      | Cable 🔗      | Single-arm Cable Row | 🦾 LATS, TRAPS  | 💪 BICEPS, 🧘 CORE (Obliques) | 2    | 10–12  |
+| Single-arm Cable Row      | Cable 🔗      | Single Arm Cable Row | 🦾 LATS, TRAPS  | 💪 BICEPS, 🧘 CORE (Obliques) | 2    | 10–12  |
 | Shrug                     | Cable 🔗      | Shoulder Shrug       | 🦾 TRAPS        | 💪 FOREARMS                   | 2    | 10–12  |
-| Triceps Press-down        | Cable 🔗      | Triceps Press-down   | 💪 TRICEPS      | 💪 FOREARMS                   | 2    | 10–12  |
+| Triceps Press-down        | Cable 🔗      | Triceps Pressdown    | 💪 TRICEPS      | 💪 FOREARMS                   | 2    | 10–12  |
 | Single-arm Biceps Curl    | Cable 🔗      | Cable Biceps Curl    | 💪 BICEPS       | 💪 FOREARMS                   | 2    | 10–12  |
 
 ---
@@ -69,9 +69,9 @@
 |---------------------|-------------|----------------------|-----------------|--------------------------|------|--------|
 | Leg Press           | Cable 🔗    | Leg Press            | 🦵 QUADS        | 🍑 GLUTES, 🦵 HAMSTRINGS  | 2–3  | 10–15  |
 | Leg Curl            | Cable 🔗    | Leg Curl             | 🦵 HAMSTRINGS   | 🦶 CALVES, 🍑 GLUTES      | 2–3  | 10–15  |
-| Leg Extensions      | Cable 🔗    | Leg Extensions       | 🦵 QUADS        | -                        | 2–3  | 10–15  |
+| Leg Extensions      | Cable 🔗    | Leg Extension        | 🦵 QUADS        | -                        | 2–3  | 10–15  |
 | Hip Adduction       | Cable 🔗    | Hip Adduction        | 🦵 ADDUCTORS    | -                        | 2    | 12–15  |
-| Cable Kick-back     | Cable 🔗    | Cable Kick-back      | 🍑 GLUTES       | 🦵 HAMSTRINGS            | 2    | 10–12  |
+| Cable Kick-back     | Cable 🔗    | Cable Kickback       | 🍑 GLUTES       | 🦵 HAMSTRINGS            | 2    | 10–12  |
 | Calf Raise          | Cable/Body 🤸 | Calf Raise           | 🦶 CALVES       | -                        | 2    | 15–20  |
 
 ---
@@ -109,3 +109,5 @@
 - [Beginner Bodyweight Workout – Nerd Fitness](https://www.nerdfitness.com/blog/beginner-body-weight-workout-burn-fat-build-muscle/)
 
 ---
+
+\* Note: "Pull Up / Chin Up" refers to the same exercise; "Pull Up" typically means palms facing away, and "Chin Up" means palms facing towards you. Choose the variation that suits you or alternate between them.
