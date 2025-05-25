@@ -1,4 +1,3 @@
-<!-- filepath: /Users/nabil/Workspaces/workout-plan-garmin-connect/weekly_workout_plan.md -->
 # Weekly Beginner-Friendly Workout Plan (Cable Machine + Power Tower, Garmin Connect Compatible)
 
 ---
@@ -19,28 +18,28 @@
 
 ## Day 1 – Upper Body 1
 
-| Exercise                  | Equipment      | Garmin Connect Name   | Primary Muscles              | Sets | Reps   |
-|---------------------------|---------------|----------------------|------------------------------|------|--------|
-| Pull-up or Chin-up        | Power Tower 🤸 | Pull-up / Chin Up    | 🦾 LATS, TRAPS / 💪 BICEPS, LATS | 2–3  | 5–8    |
-| Seated Cable Row          | Cable 🔗      | Seated Cable Row     | 🦾 LATS, TRAPS                 | 2–3  | 8–12   |
-| Cable Chest Press         | Cable 🔗      | Cable Chest Press    | 🏋️ CHEST                     | 2–3  | 8–12   |
-| Shoulder Press            | Cable 🔗      | Shoulder Press       | 🏋️ SHOULDERS                  | 2–3  | 8–12   |
-| Cable Lateral Raise       | Cable 🔗      | Cable Front Raise    | 🏋️ SHOULDERS                  | 2    | 10–12  |
-| Triceps Press-down        | Cable 🔗      | Triceps Press-down   | 💪 TRICEPS                   | 2    | 10–12  |
-| Cable Biceps Curl         | Cable 🔗      | Cable Biceps Curl    | 💪 BICEPS                    | 2    | 10–12  |
+| Exercise                  | Equipment      | Garmin Connect Name   | Primary Muscles              | Secondary Muscles             | Sets | Reps   |
+|---------------------------|---------------|----------------------|------------------------------|-------------------------------|------|--------|
+| Pull-up or Chin-up        | Power Tower 🤸 | Pull-up / Chin Up    | 🦾 LATS, TRAPS / 💪 BICEPS, LATS | 🏋️ SHOULDERS, 💪 FOREARMS     | 2–3  | 5–8    |
+| Seated Cable Row          | Cable 🔗      | Seated Cable Row     | 🦾 LATS, TRAPS                 | 💪 BICEPS, 🏋️ SHOULDERS (Rear) | 2–3  | 8–12   |
+| Cable Chest Press         | Cable 🔗      | Cable Chest Press    | 🏋️ CHEST                     | 🏋️ SHOULDERS, 💪 TRICEPS       | 2–3  | 8–12   |
+| Shoulder Press            | Cable 🔗      | Shoulder Press       | 🏋️ SHOULDERS                  | 💪 TRICEPS, 🦾 TRAPS          | 2–3  | 8–12   |
+| Cable Lateral Raise       | Cable 🔗      | Cable Front Raise    | 🏋️ SHOULDERS                  | 🦾 TRAPS                      | 2    | 10–12  |
+| Triceps Press-down        | Cable 🔗      | Triceps Press-down   | 💪 TRICEPS                   | 💪 FOREARMS                   | 2    | 10–12  |
+| Cable Biceps Curl         | Cable 🔗      | Cable Biceps Curl    | 💪 BICEPS                    | 💪 FOREARMS                   | 2    | 10–12  |
 
 ---
 
 ## Day 2 – Lower Body
 
-| Exercise            | Equipment    | Garmin Connect Name   | Primary Muscles | Sets | Reps   |
-|---------------------|-------------|----------------------|-----------------|------|--------|
-| Leg Press           | Cable 🔗    | Leg Press            | 🦵 QUADS        | 2–3  | 10–15  |
-| Leg Curl            | Cable 🔗    | Leg Curl             | 🦵 HAMSTRINGS   | 2–3  | 10–15  |
-| Leg Extensions      | Cable 🔗    | Leg Extensions       | 🦵 QUADS        | 2–3  | 10–15  |
-| Hip Adduction       | Cable 🔗    | Hip Adduction        | 🦵 ADDUCTORS    | 2    | 12–15  |
-| Cable Kick-back     | Cable 🔗    | Cable Kick-back      | 🍑 GLUTES       | 2    | 10–12  |
-| Calf Raise          | Cable/Body 🤸 | Calf Raise           | 🦶 CALVES       | 2    | 15–20  |
+| Exercise            | Equipment    | Garmin Connect Name   | Primary Muscles | Secondary Muscles        | Sets | Reps   |
+|---------------------|-------------|----------------------|-----------------|--------------------------|------|--------|
+| Leg Press           | Cable 🔗    | Leg Press            | 🦵 QUADS        | 🍑 GLUTES, 🦵 HAMSTRINGS  | 2–3  | 10–15  |
+| Leg Curl            | Cable 🔗    | Leg Curl             | 🦵 HAMSTRINGS   | 🦶 CALVES, 🍑 GLUTES      | 2–3  | 10–15  |
+| Leg Extensions      | Cable 🔗    | Leg Extensions       | 🦵 QUADS        | -                        | 2–3  | 10–15  |
+| Hip Adduction       | Cable 🔗    | Hip Adduction        | 🦵 ADDUCTORS    | -                        | 2    | 12–15  |
+| Cable Kick-back     | Cable 🔗    | Cable Kick-back      | 🍑 GLUTES       | 🦵 HAMSTRINGS            | 2    | 10–12  |
+| Calf Raise          | Cable/Body 🤸 | Calf Raise           | 🦶 CALVES       | -                        | 2    | 15–20  |
 
 ---
 
@@ -52,39 +51,39 @@
 
 ## Day 4 – Upper Body 2
 
-| Exercise                  | Equipment      | Garmin Connect Name   | Primary Muscles | Sets | Reps   |
-|---------------------------|---------------|----------------------|-----------------|------|--------|
-| Wide-grip Lat Pull-down   | Cable 🔗      | Wide-grip Lat Pull-down | 🦾 LATS         | 2–3  | 8–12   |
-| Upright Row               | Cable 🔗      | Upright Row          | 🏋️ SHOULDERS, 🦾 TRAPS | 2    | 10–12  |
-| Pec Fly                   | Cable 🔗      | Cable Crossover      | 🏋️ CHEST        | 2    | 10–12  |
-| Single-arm Cable Row      | Cable 🔗      | Single-arm Cable Row | 🦾 LATS, TRAPS  | 2    | 10–12  |
-| Shrug                     | Cable 🔗      | Shoulder Shrug       | 🦾 TRAPS        | 2    | 10–12  |
-| Triceps Press-down        | Cable 🔗      | Triceps Press-down   | 💪 TRICEPS      | 2    | 10–12  |
-| Single-arm Biceps Curl    | Cable 🔗      | Cable Biceps Curl    | 💪 BICEPS       | 2    | 10–12  |
+| Exercise                  | Equipment      | Garmin Connect Name   | Primary Muscles | Secondary Muscles             | Sets | Reps   |
+|---------------------------|---------------|----------------------|-----------------|-------------------------------|------|--------|
+| Wide-grip Lat Pull-down   | Cable 🔗      | Wide-grip Lat Pull-down | 🦾 LATS         | 💪 BICEPS, 🏋️ SHOULDERS (Rear) | 2–3  | 8–12   |
+| Upright Row               | Cable 🔗      | Upright Row          | 🏋️ SHOULDERS, 🦾 TRAPS | 💪 BICEPS                     | 2    | 10–12  |
+| Pec Fly                   | Cable 🔗      | Cable Crossover      | 🏋️ CHEST        | 🏋️ SHOULDERS (Front)         | 2    | 10–12  |
+| Single-arm Cable Row      | Cable 🔗      | Single-arm Cable Row | 🦾 LATS, TRAPS  | 💪 BICEPS, 🧘 CORE (Obliques) | 2    | 10–12  |
+| Shrug                     | Cable 🔗      | Shoulder Shrug       | 🦾 TRAPS        | 💪 FOREARMS                   | 2    | 10–12  |
+| Triceps Press-down        | Cable 🔗      | Triceps Press-down   | 💪 TRICEPS      | 💪 FOREARMS                   | 2    | 10–12  |
+| Single-arm Biceps Curl    | Cable 🔗      | Cable Biceps Curl    | 💪 BICEPS       | 💪 FOREARMS                   | 2    | 10–12  |
 
 ---
 
 ## Day 5 – Lower Body (Variation)
 
-| Exercise            | Equipment    | Garmin Connect Name   | Primary Muscles | Sets | Reps   |
-|---------------------|-------------|----------------------|-----------------|------|--------|
-| Leg Press           | Cable 🔗    | Leg Press            | 🦵 QUADS        | 2–3  | 10–15  |
-| Leg Curl            | Cable 🔗    | Leg Curl             | 🦵 HAMSTRINGS   | 2–3  | 10–15  |
-| Leg Extensions      | Cable 🔗    | Leg Extensions       | 🦵 QUADS        | 2–3  | 10–15  |
-| Hip Adduction       | Cable 🔗    | Hip Adduction        | 🦵 ADDUCTORS    | 2    | 12–15  |
-| Cable Kick-back     | Cable 🔗    | Cable Kick-back      | 🍑 GLUTES       | 2    | 10–12  |
-| Calf Raise          | Cable/Body 🤸 | Calf Raise           | 🦶 CALVES       | 2    | 15–20  |
+| Exercise            | Equipment    | Garmin Connect Name   | Primary Muscles | Secondary Muscles        | Sets | Reps   |
+|---------------------|-------------|----------------------|-----------------|--------------------------|------|--------|
+| Leg Press           | Cable 🔗    | Leg Press            | 🦵 QUADS        | 🍑 GLUTES, 🦵 HAMSTRINGS  | 2–3  | 10–15  |
+| Leg Curl            | Cable 🔗    | Leg Curl             | 🦵 HAMSTRINGS   | 🦶 CALVES, 🍑 GLUTES      | 2–3  | 10–15  |
+| Leg Extensions      | Cable 🔗    | Leg Extensions       | 🦵 QUADS        | -                        | 2–3  | 10–15  |
+| Hip Adduction       | Cable 🔗    | Hip Adduction        | 🦵 ADDUCTORS    | -                        | 2    | 12–15  |
+| Cable Kick-back     | Cable 🔗    | Cable Kick-back      | 🍑 GLUTES       | 🦵 HAMSTRINGS            | 2    | 10–12  |
+| Calf Raise          | Cable/Body 🤸 | Calf Raise           | 🦶 CALVES       | -                        | 2    | 15–20  |
 
 ---
 
 ## Day 6 – Abs/Core
 
-| Exercise             | Equipment      | Garmin Connect Name   | Primary Muscles      | Sets | Reps/Time |
-|----------------------|---------------|----------------------|----------------------|------|-----------|
-| Hanging Leg Raise    | Power Tower 🤸 | Hanging Leg Raise    | 🧘 ABS, 🧘 OBLIQUES, 🦵 HIPS | 2–3  | 8–12      |
-| Cable Crunch         | Cable 🔗      | Cable Crunch         | 🧘 ABS               | 2–3  | 12–15     |
-| Plank                | Bodyweight 🤸 | Plank                | 🧘 ABS               | 2–3  | 30–45s    |
-| Russian Twist        | Bodyweight 🤸 | Russian Twist        | 🧘 OBLIQUES          | 2    | 15/side   |
+| Exercise             | Equipment      | Garmin Connect Name   | Primary Muscles      | Secondary Muscles     | Sets | Reps/Time |
+|----------------------|---------------|----------------------|----------------------|-----------------------|------|-----------|
+| Hanging Leg Raise    | Power Tower 🤸 | Hanging Leg Raise    | 🧘 ABS, 🧘 OBLIQUES, 🦵 HIPS | -                     | 2–3  | 8–12      |
+| Cable Crunch         | Cable 🔗      | Cable Crunch         | 🧘 ABS               | -                     | 2–3  | 12–15     |
+| Plank                | Bodyweight 🤸 | Plank                | 🧘 ABS               | 🏋️ SHOULDERS, 🦾 BACK | 2–3  | 30–45s    |
+| Russian Twist        | Bodyweight 🤸 | Russian Twist        | 🧘 OBLIQUES          | 🧘 ABS, 🦾 BACK (Lower) | 2    | 15/side   |
 
 ---
 
@@ -99,6 +98,7 @@
 - Focus on form and control, not weight.
 - Rest 60–90 seconds between sets.
 - If a movement feels too hard, do fewer reps or choose an easier variation.
+- For exercises like Cable Lateral Raises, prioritize form over weight. You can find many instructional videos online by searching "Cable Lateral Raise form".
 - Log these workouts in Garmin Connect using the exact exercise names above.
 
 ---
