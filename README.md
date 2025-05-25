@@ -4,7 +4,7 @@ This repository provides a comprehensive, emoji-enhanced list of all official ex
 
 - Quickly find the closest matching official exercise name for their workout logging in Garmin Connect.
 - Map custom/named exercises to Garmin Connect’s list for accurate tracking.
-- Explore all available exercises to build their own plans, or feed the list to an AI assistant for personalized workout generation.
+- Explore all available exercises to build your own plans, or feed the list to an AI assistant for personalized workout generation.
 
 ## Quick Links
 
@@ -51,7 +51,7 @@ Garmin Connect only allows logging exercises from its official database. If your
 
 ## Data Source
 
-- Exercise names and muscle mapping are sourced from Garmin Connect’s official API and community resources.
+- Exercise names and muscle mapping are sourced from Garmin Connect’s and community resources.
 - For more details, see the [Garmin Forums](https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/152237/strength-workout---list-of-exercise-available-in-english-and-french).
 
 ---
