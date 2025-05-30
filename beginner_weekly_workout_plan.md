@@ -128,6 +128,8 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 > 
 > **Note:** Performed with both hands. Log as "Single Arm Cable Chest Press" in Garmin Connect if "Cable Chest Press" is not available.
 
+> **Note:** Perform negative reps if you cannot complete full dips. Log as "Dip" in Garmin Connect.
+
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
 - Static stretching for all major upper body muscles
@@ -149,12 +151,14 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 -->
 | Exercise (Your Name)         | Garmin Connect Name         | Equipment         | Sets x Reps | Primary Muscles         | Secondary Muscles      |
 |-----------------------------|----------------------------|-------------------|-------------|-------------------------|------------------------|
-| Bodyweight Squat             | Bodyweight Squat           | Bodyweight        | 3 x 12-15   | Quads, Glutes           | Hamstrings             |
+| Bodyweight Squat             | Squat                      | Bodyweight        | 3 x 12-15   | Quads, Glutes           | Hamstrings             |
 | Leg Press                    | Leg Press                  | Cable, Bench      | 3 x 12-15   | Quads, Glutes           | Hamstrings             |
 | Leg Curl                     | Leg Curl                   | Cable, Bench      | 3 x 12-15   | Hamstrings              | Glutes                 |
-| Hip Adduction                | Hip Adduction              | Cable             | 2 x 12-15   | Adductors               |                        |
+| Standing Cable Hip Abduction | Standing Cable Hip Abduction| Cable             | 2 x 12-15   | Abductors               |                        |
 | Hanging Knee Raise           | Hanging Knee Raise         | Power Tower       | 3 x 10-15   | Abs, Hip Flexors        |                        |
 | Plank                        | Plank                      | Bodyweight        | 3 x 30s     | Abs, Core               | Shoulders, Glutes      |
+
+> **Note:** Log as "Squat" in Garmin Connect for bodyweight squats. If "Standing Cable Hip Abduction" is not available, log as "Hip Abduction" or the closest match.
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
