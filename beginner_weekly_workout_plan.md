@@ -10,7 +10,7 @@
 <!--
 Reasoning:
 - Compound movements (Push Up, Chest Press, Pull Up, Single Arm Cable Row) are placed first to maximize strength and energy for the heaviest, most demanding lifts.
-- Isolation/accessory exercises (Triceps Pressdown, Dumbbell Lateral Raise) follow, allowing you to focus on specific muscles after the main lifts.
+- Isolation/accessory exercises (Triceps Pressdown, Dumbbell Lateral Raise, One Arm Cable Lateral Raise, Cable Biceps Curl, Wide Grip Lat Pulldown) follow, allowing you to focus on specific muscles after the main lifts.
 - This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
 - Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises utilize both cable machine and Power Tower for equipment variety and progression.
@@ -22,9 +22,13 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Push Up                     | Push Ups                   | Bodyweight        | 3 x 10-15   | Chest, Triceps, Shoulders| Core                   |
 | Chest Press                 | Cable Crossover (or Chest Press if available) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
 | Pull Up (Assisted if needed)| Pull Up                    | Power Tower       | 3 x 8-12    | Back, Biceps            | Shoulders              |
-| Single Arm Cable Row        | Single Arm Cable Row       | Cable             | 3 x 10-12 (each arm)   | Back                    | Biceps, Rear Delts     |
-| Triceps Pressdown           | Triceps Pressdown          | Cable             | 3 x 10-12   | Triceps                 |                        |
-| Dumbbell Lateral Raise      | Dumbbell Lateral Raise     | Dumbbells (optional) | 2 x 10-12   | Shoulders               | Traps                  |
+| Seated Cable Row            | Seated Cable Row            | Cable             | 3 x 10-12   | Back                    | Biceps, Rear Delts     |
+| Triceps Pressdown           | Triceps Pressdown           | Cable             | 3 x 10-12   | Triceps                 |                        |
+| One Arm Cable Lateral Raise | One Arm Cable Lateral Raise| Cable             | 2 x 10-12   | Shoulders               |                        |
+| Cable Biceps Curl           | Cable Biceps Curl          | Cable             | 2 x 10-12   | Biceps                  |                        |
+| Wide Grip Lat Pulldown      | Wide Grip Lat Pulldown     | Cable             | 2 x 10-12   | Back, Lats              | Biceps                 |
+
+> **Tip:** Use a resistance band or perform negative reps for pull ups if you cannot complete full reps. Substitute with Lat Pulldown if needed.
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
@@ -38,7 +42,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 <!--
 Reasoning:
 - Compound exercises (Leg Press, Bodyweight Squat) are placed first to maximize strength and energy for the largest muscle groups.
-- Isolation/accessory exercises (Leg Curl, Leg Extension, Calf Raise, Cable Kickback) follow, allowing you to focus on specific muscles after the main lifts.
+- Isolation/accessory exercises (Leg Curl, Leg Extension, Calf Raise, Cable Kickback, Hip Adduction) follow, allowing you to focus on specific muscles after the main lifts.
 - This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
 - Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises use both cable machine and bodyweight for equipment variety and progression.
@@ -52,6 +56,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Leg Extension                | Leg Extension              | Cable, Bench      | 3 x 12-15   | Quads                   |                        |
 | Calf Raise                   | Calf Raise                 | Bodyweight        | 3 x 15-20   | Calves                  |                        |
 | Kick Back                    | Cable Kickback             | Cable             | 3 x 12-15 (each leg)   | Glutes, Hamstrings      |                        |
+| Hip Adduction                | Hip Adduction              | Cable             | 2 x 12-15   | Adductors               |                        |
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
@@ -95,7 +100,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 <!--
 Reasoning:
 - Compound movements (Push Up, Chest Press, Chin Up, Single Arm Cable Row) are placed first to maximize strength and energy for the heaviest, most demanding lifts.
-- Accessory exercises (Body Weight Dip, Dumbbell Lateral Raise) follow, allowing you to focus on specific muscles after the main lifts.
+- Accessory exercises (Negative Dip, Dumbbell Lateral Raise, One Arm Cable Lateral Raise, Cable Biceps Curl, Wide Grip Lat Pulldown) follow, allowing you to focus on specific muscles after the main lifts.
 - This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
 - Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises utilize both cable machine and Power Tower for equipment variety and progression.
@@ -107,9 +112,13 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Push Up                     | Push Ups                   | Bodyweight        | 3 x 10-15   | Chest, Triceps, Shoulders| Core                   |
 | Chest Press                 | Cable Crossover (or Chest Press if available) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
 | Chin Up (Assisted if needed)| Chin Up                    | Power Tower       | 3 x 8-12    | Biceps, Lats            | Shoulders              |
-| Single Arm Cable Row        | Single Arm Cable Row       | Cable             | 3 x 10-12 (each arm)   | Back                    | Biceps, Rear Delts     |
-| Body Weight Dip             | Body Weight Dip            | Power Tower       | 3 x 8-12    | Triceps, Chest          | Shoulders              |
-| Dumbbell Lateral Raise      | Dumbbell Lateral Raise     | Dumbbells (optional) | 2 x 10-12   | Shoulders               | Traps                  |
+| Seated Cable Row            | Seated Cable Row            | Cable             | 3 x 10-12   | Back                    | Biceps, Rear Delts     |
+| Negative Dip                | Negative Dip               | Power Tower       | 3 x 8-12    | Triceps, Chest          | Shoulders              |
+| One Arm Cable Lateral Raise | One Arm Cable Lateral Raise| Cable             | 2 x 10-12   | Shoulders               |                        |
+| Cable Biceps Curl           | Cable Biceps Curl          | Cable             | 2 x 10-12   | Biceps                  |                        |
+| Wide Grip Lat Pulldown      | Wide Grip Lat Pulldown     | Cable             | 2 x 10-12   | Back, Lats              | Biceps                 |
+
+> **Tip:** Use a resistance band or perform negative reps for chin ups and dips if you cannot complete full reps. Substitute with Lat Pulldown if needed.
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
@@ -122,7 +131,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 
 <!--
 Reasoning:
-- Compound and accessory movements (Bodyweight Squat, Leg Press, Leg Curl, Hanging Knee Raise, Plank) are ordered to start with the most demanding lower body lifts and finish with core and stability work.
+- Compound and accessory movements (Bodyweight Squat, Leg Press, Leg Curl, Hip Adduction, Hanging Knee Raise, Plank) are ordered to start with the most demanding lower body lifts and finish with core and stability work.
 - This order (compound → isolation → core) is supported by strength training best practices for safety, effectiveness, and progression.
 - Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises use both cable machine, Power Tower, and bodyweight for variety and progression.
@@ -134,7 +143,8 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Bodyweight Squat             | Bodyweight Squat           | Bodyweight        | 3 x 12-15   | Quads, Glutes           | Hamstrings             |
 | Leg Press                    | Leg Press                  | Cable, Bench      | 3 x 12-15   | Quads, Glutes           | Hamstrings             |
 | Leg Curl                     | Leg Curl                   | Cable, Bench      | 3 x 12-15   | Hamstrings              | Glutes                 |
-| Hanging Knee Raise           | Hanging Knee Raise          | Power Tower       | 3 x 10-15   | Abs, Hip Flexors        |                        |
+| Hip Adduction                | Hip Adduction              | Cable             | 2 x 12-15   | Adductors               |                        |
+| Hanging Knee Raise           | Hanging Knee Raise         | Power Tower       | 3 x 10-15   | Abs, Hip Flexors        |                        |
 | Plank                        | Plank                      | Bodyweight        | 3 x 30s     | Abs, Core               | Shoulders, Glutes      |
 
 **Cooldown:**
