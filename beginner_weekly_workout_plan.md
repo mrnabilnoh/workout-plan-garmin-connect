@@ -6,6 +6,7 @@
 ---
 
 ## Monday – Upper Body (Cable + Power Tower)
+**Garmin Connect Workout Name:** Monday Upper Body Strength
 
 <!--
 Reasoning:
@@ -20,7 +21,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Exercise (Your Name)         | Garmin Connect Name         | Equipment         | Sets x Reps | Primary Muscles         | Secondary Muscles      |
 |-----------------------------|----------------------------|-------------------|-------------|-------------------------|------------------------|
 | Push Up                     | Push Ups                   | Bodyweight        | 3 x 10-15   | Chest, Triceps, Shoulders| Core                   |
-| Chest Press                 | Cable Crossover (or Chest Press if available) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
+| Chest Press                 | Cable Chest Press (Both Hands) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
 | Pull Up (Assisted if needed)| Pull Up                    | Power Tower       | 3 x 8-12    | Back, Biceps            | Shoulders              |
 | Seated Cable Row            | Seated Cable Row            | Cable             | 3 x 10-12   | Back                    | Biceps, Rear Delts     |
 | Triceps Pressdown           | Triceps Pressdown           | Cable             | 3 x 10-12   | Triceps                 |                        |
@@ -29,6 +30,8 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Wide Grip Lat Pulldown      | Wide Grip Lat Pulldown     | Cable             | 2 x 10-12   | Back, Lats              | Biceps                 |
 
 > **Tip:** Use a resistance band or perform negative reps for pull ups if you cannot complete full reps. Substitute with Lat Pulldown if needed.
+> 
+> **Note:** Performed with both hands. Log as "Single Arm Cable Chest Press" in Garmin Connect if "Cable Chest Press" is not available.
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
@@ -38,11 +41,12 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 ---
 
 ## Tuesday – Lower Body (Cable + Bodyweight)
+**Garmin Connect Workout Name:** Tuesday Lower Body Strength
 
 <!--
 Reasoning:
 - Compound exercises (Leg Press, Bodyweight Squat) are placed first to maximize strength and energy for the largest muscle groups.
-- Isolation/accessory exercises (Leg Curl, Leg Extension, Calf Raise, Cable Kickback, Hip Adduction) follow, allowing you to focus on specific muscles after the main lifts.
+- Isolation/accessory exercises (Leg Curl, Leg Extension, Calf Raise, Banded Hip Extension, Hip Adduction) follow, allowing you to focus on specific muscles after the main lifts.
 - This order (compound → isolation) is supported by strength training best practices for safety, effectiveness, and progression.
 - Always finish your session with a cooldown: 5-10 minutes of light cardio (e.g., walking), static stretching, and deep breathing to aid recovery and flexibility.
 - Exercises use both cable machine and bodyweight for equipment variety and progression.
@@ -55,8 +59,8 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Leg Curl                     | Leg Curl                   | Cable, Bench      | 3 x 12-15   | Hamstrings              | Glutes                 |
 | Leg Extension                | Leg Extension              | Cable, Bench      | 3 x 12-15   | Quads                   |                        |
 | Calf Raise                   | Calf Raise                 | Bodyweight        | 3 x 15-20   | Calves                  |                        |
-| Kick Back                    | Cable Kickback             | Cable             | 3 x 12-15 (each leg)   | Glutes, Hamstrings      |                        |
-| Hip Adduction                | Hip Adduction              | Cable             | 2 x 12-15   | Adductors               |                        |
+| Kick Back                    | Cable Hip Extension         | Cable             | 3 x 12-15 (each leg)   | Glutes, Hamstrings      |                        |
+| Standing Cable Hip Abduction | Standing Cable Hip Abduction| Cable             | 2 x 12-15   | Abductors               |                        |
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
@@ -66,6 +70,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 ---
 
 ## Wednesday – Core/Abs (Power Tower + Cable)
+**Garmin Connect Workout Name:** Wednesday Core & Abs
 
 <!--
 Reasoning:
@@ -96,6 +101,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 ---
 
 ## Friday – Upper Body (Cable + Power Tower)
+**Garmin Connect Workout Name:** Friday Upper Body Strength
 
 <!--
 Reasoning:
@@ -110,7 +116,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Exercise (Your Name)         | Garmin Connect Name         | Equipment         | Sets x Reps | Primary Muscles         | Secondary Muscles      |
 |-----------------------------|----------------------------|-------------------|-------------|-------------------------|------------------------|
 | Push Up                     | Push Ups                   | Bodyweight        | 3 x 10-15   | Chest, Triceps, Shoulders| Core                   |
-| Chest Press                 | Cable Crossover (or Chest Press if available) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
+| Chest Press                 | Cable Chest Press (Both Hands) | Cable, Bench | 3 x 10-12   | Chest                   | Shoulders, Triceps     |
 | Chin Up (Assisted if needed)| Chin Up                    | Power Tower       | 3 x 8-12    | Biceps, Lats            | Shoulders              |
 | Seated Cable Row            | Seated Cable Row            | Cable             | 3 x 10-12   | Back                    | Biceps, Rear Delts     |
 | Negative Dip                | Negative Dip               | Power Tower       | 3 x 8-12    | Triceps, Chest          | Shoulders              |
@@ -119,6 +125,8 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 | Wide Grip Lat Pulldown      | Wide Grip Lat Pulldown     | Cable             | 2 x 10-12   | Back, Lats              | Biceps                 |
 
 > **Tip:** Use a resistance band or perform negative reps for chin ups and dips if you cannot complete full reps. Substitute with Lat Pulldown if needed.
+> 
+> **Note:** Performed with both hands. Log as "Single Arm Cable Chest Press" in Garmin Connect if "Cable Chest Press" is not available.
 
 **Cooldown:**
 - 5–10 minutes of light cardio (walking, cycling, etc.)
@@ -128,6 +136,7 @@ References: ACE Fitness, Mayo Clinic, Nerd Fitness.
 ---
 
 ## Saturday – Lower Body/Core (Cable + Power Tower)
+**Garmin Connect Workout Name:** Saturday Lower Body & Core
 
 <!--
 Reasoning:
